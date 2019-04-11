@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AisatsuApp</string>
+    
+    <!--key_greeting-->
+    <string name="key_greeting_morning">おはよう</string>
+    <string name="key_greeting_daytime">こんにちは</string>
+    <string name="key_greeting_night">こんばんは</string>
+</resources>
